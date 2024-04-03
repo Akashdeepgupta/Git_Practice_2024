@@ -1,3 +1,7 @@
 This is file 1
 editing file 1 by file 4
+<<<<<<< HEAD
+sip output is here
+=======
 compound interest will get print here
+>>>>>>> master
